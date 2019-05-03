@@ -6,3 +6,5 @@ dist
 esm
 # Devdocs is a separate project
 pwa-devdocs
+# Scaffolds won't be actually requireable
+scaffolds
